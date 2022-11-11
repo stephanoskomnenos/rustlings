@@ -18,6 +18,8 @@ trait AppendBar {
 }
 
 //TODO: Add your code here
+impl AppendBar for Vector {
+}
 
 #[cfg(test)]
 mod tests {
